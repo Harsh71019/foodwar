@@ -1,12 +1,10 @@
 import React from 'react'
-import Page from "../components/Page"
+import CreateProduct from "../components/CreateProduct"
 
 const sell = () => {
     return (
         <div>
-            <Page>
-                heeyyy
-            </Page>
+            <CreateProduct />
         </div>
     )
 }
