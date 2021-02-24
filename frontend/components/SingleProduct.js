@@ -20,7 +20,7 @@ const ProductStyles = styled.div`
         object-fit:contain;
 
     }
-
+0
 `
 
 
